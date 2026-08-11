@@ -1,6 +1,6 @@
-# Real-Time Battery Management System (BMS)
+# CDAC Project - Real-Time EV Management System with Safety Protections and IOT Dashboard
 
-An embedded system designed to monitor and manage battery state, parameters, and health in real time.
+An Embedded Electric Vehicle Management System designed using STM32F407A, FreeRTOS, CAN, ESP32, and AWS IoT dashboard.
 
 ## Status
 Work in progress — core modules and hardware configurations are actively being integrated.
